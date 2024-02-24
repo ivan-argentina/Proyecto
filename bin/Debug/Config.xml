@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+    <G>  
+        'numero de la pc
+        <Imagen Id='0'>
+           <subnodo1>1</subnodo1>
+            <subnodo2>data Source=ntivani5\sql;Initial Catalog=Truchet;Integrated Security=SSPI</subnodo2>
+            <subnodo3>Lovino</subnodo3>
+       </Imagen>
+   </G>
+
+      
+ 

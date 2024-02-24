@@ -1,0 +1,1025 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="8a2ef0b4-cc1d-422c-b2d5-eb7f531302de" name="Usuario@NTIVAN 2016-01-13 08:06:09" runUser="NTIVAN\Usuario" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <TestRunConfiguration name="Ejecución de pruebas local" id="66229d8a-0786-4fe6-9883-e14c2d82a233">
+    <Description>Configuración de ejecución de pruebas predeterminada para una ejecución de pruebas local.</Description>
+    <Deployment runDeploymentRoot="D:\Proyectos.Net\Electrodomesticos\TestResults\Usuario_NTIVAN 2016-01-13 08_06_09">
+      <DeploymentItem filename="D:\Proyectos.Net\Electrodomesticos\obj\Debug\AxInterop.AcroPDFLib.dll" />
+      <DeploymentItem filename="D:\Proyectos.Net\Electrodomesticos\obj\Debug\Interop.OCXFISLib.dll" />
+      <DeploymentItem filename="D:\Proyectos.Net\Electrodomesticos\bin\Debug\Super.exe" />
+      <DeploymentItem filename="D:\Proyectos.Net\Electrodomesticos\FiscalNET.dll" />
+      <DeploymentItem filename="D:\Proyectos.Net\Electrodomesticos\obj\Debug\Interop.AcroPDFLib.dll" />
+    </Deployment>
+    <TestTypeSpecific />
+  </TestRunConfiguration>
+  <ResultSummary outcome="Failed">
+    <Counters total="55" executed="55" error="0" failed="37" timeout="0" aborted="0" inconclusive="18" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <Times creation="2016-01-13T08:06:09.9727421-03:00" queuing="2016-01-13T08:06:11.2537804-03:00" start="2016-01-13T08:06:11.6621308-03:00" finish="2016-01-13T08:06:13.7711635-03:00" />
+  <TestDefinitions>
+    <UnitTest name="CachedCryReciboConstructorTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="0055ee27-db03-15f0-b36a-b90c6f40ca44">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="a4e92bd1-c32e-411b-89f8-f3c338c96496" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCryReciboTest, TestProject1" name="CachedCryReciboConstructorTest" />
+    </UnitTest>
+    <UnitTest name="CreateReportTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="3c43767c-9985-e5c5-7666-b7f244210708">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="cbe572c9-0c42-48c6-b097-452764e601d8" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCryReciboTest, TestProject1" name="CreateReportTest" />
+    </UnitTest>
+    <UnitTest name="ShareDBLogonInfoTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="1dc52c5d-3e37-e198-b650-867f9ba58074">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="05c0af5a-ed6c-4ae8-8155-1406528031b8" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCryRcuenProTest, TestProject1" name="ShareDBLogonInfoTest" />
+    </UnitTest>
+    <UnitTest name="IsCacheableTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="2bc9b6b4-89c6-0eab-e860-e2886e7ed26b">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="7b06bef1-5e0e-40bc-bb48-54bb901cf677" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCryDetVenTest, TestProject1" name="IsCacheableTest" />
+    </UnitTest>
+    <UnitTest name="IsCacheableTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="edad2d04-4402-ff67-372a-e485f4f73632">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="da0cb452-16ee-4326-9c30-5b7e3266d346" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCryPresupuestoTest, TestProject1" name="IsCacheableTest" />
+    </UnitTest>
+    <UnitTest name="CachedCryDetVenConstructorTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="da5a6e7d-b958-3b9d-d7c1-5bb2ae2909d7">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="1b1e754d-e0c4-4412-afcf-8dafd538c114" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCryDetVenTest, TestProject1" name="CachedCryDetVenConstructorTest" />
+    </UnitTest>
+    <UnitTest name="CachedCryRcuenProConstructorTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="a883e6cb-2eb2-7d7c-5bee-8183ad325696">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="b43a0af6-e1cc-4f01-8f3f-cf0417c23e22" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCryRcuenProTest, TestProject1" name="CachedCryRcuenProConstructorTest" />
+    </UnitTest>
+    <UnitTest name="GetCustomizedCacheKeyTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="059b06d8-72ff-d18a-8faa-030264bb8bb1">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="4c5d5d9a-0d05-478d-bad3-ce796a566ccd" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCryRcuenProTest, TestProject1" name="GetCustomizedCacheKeyTest" />
+    </UnitTest>
+    <UnitTest name="ShareDBLogonInfoTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="045954f0-58a1-44d3-7628-f98a7662279f">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="e229f18b-1f64-4bfd-8c24-34d7d7dcc555" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCrySaldosTest, TestProject1" name="ShareDBLogonInfoTest" />
+    </UnitTest>
+    <UnitTest name="CreateReportTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="8c0cc0c0-6e89-1c7f-c419-ba8f2f463213">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="157cc4d9-f3c2-45e7-85d4-ee26f1cc6cd1" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCryIvaComprasTest, TestProject1" name="CreateReportTest" />
+    </UnitTest>
+    <UnitTest name="CreateReportTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="a000ac3a-b3cf-7dc9-9ee2-0e04691f4271">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="f8e380b7-e841-4480-82af-88e52a8671f0" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCryDetVenTest, TestProject1" name="CreateReportTest" />
+    </UnitTest>
+    <UnitTest name="CachedCryPresupuestoConstructorTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="5df935ca-425b-110e-7545-c5888243e40d">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="02a0bfcf-9c8e-4770-a4c9-fde7d0030987" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCryPresupuestoTest, TestProject1" name="CachedCryPresupuestoConstructorTest" />
+    </UnitTest>
+    <UnitTest name="ShareDBLogonInfoTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="872cf683-6b93-cca5-b2ea-1cfc270ce02c">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="732d7f29-cd87-45cf-803b-23b8e45394ff" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCryReciboTest, TestProject1" name="ShareDBLogonInfoTest" />
+    </UnitTest>
+    <UnitTest name="GetCustomizedCacheKeyTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="f9f3809d-e0ab-887c-e1be-efe95001befe">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="6d3f9da5-39a8-4e47-a19f-158797aff7c4" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCryReciboTest, TestProject1" name="GetCustomizedCacheKeyTest" />
+    </UnitTest>
+    <UnitTest name="IsCacheableTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="48356080-96ea-a088-861a-9579a93ce5eb">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="c483ddc1-0a99-4d95-8b86-3f7cba39a523" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCryIvaVentasTest, TestProject1" name="IsCacheableTest" />
+    </UnitTest>
+    <UnitTest name="IsCacheableTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="441c275f-c39b-d2e3-ab42-db14ee4f6dc8">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="3e98f2d5-ae60-4e51-bf97-b9551b0693f1" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCryRcuenProTest, TestProject1" name="IsCacheableTest" />
+    </UnitTest>
+    <UnitTest name="ShareDBLogonInfoTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="81171e65-13b3-dfa5-4d5c-4176bfc246b4">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="c50a67b8-8954-4aa5-8aa1-7bf428b5339a" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCryRcuenCliTest, TestProject1" name="ShareDBLogonInfoTest" />
+    </UnitTest>
+    <UnitTest name="DtcRecibo_ComprobanteDataTableConstructorTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="43c8ba4e-d1db-64fe-fd99-094edca978cf">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <DeploymentItems>
+        <DeploymentItem filename="Super.exe" />
+      </DeploymentItems>
+      <Execution id="a2970230-d927-45a9-910a-922413eca1d5" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.DtcRecibo_ComprobanteDataTableTest, TestProject1" name="DtcRecibo_ComprobanteDataTableConstructorTest" />
+    </UnitTest>
+    <UnitTest name="ShareDBLogonInfoTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="f2fe63f0-4478-7b7b-bd25-44ea4473519d">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="0d32768f-5b42-43a1-b1d4-d6d1f2ba50ca" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCryIvaVentasTest, TestProject1" name="ShareDBLogonInfoTest" />
+    </UnitTest>
+    <UnitTest name="CacheTimeOutTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="f8990b1d-c48a-3414-d201-d7435c02494f">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="0dfcabaa-c1a5-4c09-ad2d-76fe2d56d249" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCryIvaVentasTest, TestProject1" name="CacheTimeOutTest" />
+    </UnitTest>
+    <UnitTest name="GetCustomizedCacheKeyTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="ee6191bd-2685-9940-ab51-815288298a19">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="428a28a1-c513-441b-a9fe-f20514ca86ae" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCryRemitoTest, TestProject1" name="GetCustomizedCacheKeyTest" />
+    </UnitTest>
+    <UnitTest name="CachedCryIvaVentasConstructorTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="09e0f863-09d6-b76d-b04a-0e37d04800a7">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="b6d13be3-0531-4b1f-a1b6-552482b17f7b" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCryIvaVentasTest, TestProject1" name="CachedCryIvaVentasConstructorTest" />
+    </UnitTest>
+    <UnitTest name="GetCustomizedCacheKeyTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="b957b282-66cf-9d5d-b1c9-00e219d95f5f">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="aefef3f5-ab9d-4bd4-b696-af852cb79a62" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCryDetVenTest, TestProject1" name="GetCustomizedCacheKeyTest" />
+    </UnitTest>
+    <UnitTest name="CreateReportTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="4d40c7a3-99b0-4930-5cca-b071aee9869b">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="afd8e3df-fa99-4325-aee2-0cdecc2255c1" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCryRcuenCliTest, TestProject1" name="CreateReportTest" />
+    </UnitTest>
+    <UnitTest name="CacheTimeOutTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="a4bd3537-8def-4f80-1731-34924e9f5cd7">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="60c8b687-33d9-4dd5-96dc-e2d6bb5c396c" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCryRcuenCliTest, TestProject1" name="CacheTimeOutTest" />
+    </UnitTest>
+    <UnitTest name="IsCacheableTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="ba4abc08-a1b7-fe98-b626-723fcacbd3a7">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="556c8693-fcbe-4a8e-b773-7e263cb8246a" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCryRcuenCliTest, TestProject1" name="IsCacheableTest" />
+    </UnitTest>
+    <UnitTest name="CachedCrySaldosConstructorTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="a436d66d-8ea9-e3be-7bdd-223c4e68e53a">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="79f7f64a-b742-47b7-be5f-ba892fe1ac56" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCrySaldosTest, TestProject1" name="CachedCrySaldosConstructorTest" />
+    </UnitTest>
+    <UnitTest name="IsCacheableTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="2e7637f6-522d-7840-755d-30282e72a76f">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="a173d8c1-088c-4aa8-989f-e2f88a7d3848" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCryReciboTest, TestProject1" name="IsCacheableTest" />
+    </UnitTest>
+    <UnitTest name="CreateReportTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="76810870-2418-1636-bbe8-930c32d5ff8f">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="1a5bf036-fe1e-4f78-9812-83b441705f45" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCrySaldosTest, TestProject1" name="CreateReportTest" />
+    </UnitTest>
+    <UnitTest name="CreateReportTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="1847a43c-1537-d8c4-724e-1b749234b0c3">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="e58732f2-05a7-4a6f-a323-2a0280c265bd" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCryRemitoTest, TestProject1" name="CreateReportTest" />
+    </UnitTest>
+    <UnitTest name="CacheTimeOutTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="fef00f9b-0352-e80f-0b91-72a3cc1f81c0">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="1de29aff-fef1-4a7a-88d8-677e6f6879fe" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCryRcuenProTest, TestProject1" name="CacheTimeOutTest" />
+    </UnitTest>
+    <UnitTest name="CachedCryRcuenCliConstructorTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="1b6c8988-4189-eb6b-b27e-e38d9bffe0f8">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="54c3e24b-8101-471b-892f-e2d86de3499a" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCryRcuenCliTest, TestProject1" name="CachedCryRcuenCliConstructorTest" />
+    </UnitTest>
+    <UnitTest name="ShareDBLogonInfoTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="0308a57f-dab5-0109-ff7c-779e3e578ffc">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="3e3f1628-4a97-4d09-b48b-f050317ba48c" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCryRemitoTest, TestProject1" name="ShareDBLogonInfoTest" />
+    </UnitTest>
+    <UnitTest name="GetCustomizedCacheKeyTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="aed3dc00-ed5a-cfea-bcf3-4aca543a63ee">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="bef866ea-1d46-4fcd-bd4b-2faca761cf1e" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCrySaldosTest, TestProject1" name="GetCustomizedCacheKeyTest" />
+    </UnitTest>
+    <UnitTest name="IsCacheableTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="d222b6da-dd5f-6429-69cb-14ed4233f081">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="19c73500-95bc-44fe-9c38-525478a36142" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCrySaldosTest, TestProject1" name="IsCacheableTest" />
+    </UnitTest>
+    <UnitTest name="ShareDBLogonInfoTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="1e573e7d-d702-0bf9-a045-f531105d421b">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="352ba30f-dfe6-479f-b8e2-f1e067bd089d" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCryDetVenTest, TestProject1" name="ShareDBLogonInfoTest" />
+    </UnitTest>
+    <UnitTest name="CachedCryIvaComprasConstructorTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="e44bc15c-34de-fcd7-bcef-ca3cfa4f02a9">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="a6a46d7b-65cd-4e89-a9dc-3f7160652b97" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCryIvaComprasTest, TestProject1" name="CachedCryIvaComprasConstructorTest" />
+    </UnitTest>
+    <UnitTest name="GetCustomizedCacheKeyTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="e3b602d7-0a5b-89bd-b20e-89bc0df2b765">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="0a193c3a-9d2e-44a7-97ae-53f457c6845b" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCryIvaComprasTest, TestProject1" name="GetCustomizedCacheKeyTest" />
+    </UnitTest>
+    <UnitTest name="ShareDBLogonInfoTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="6548b7ea-38e7-1e46-b186-cf6936768b0b">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="d43de7b6-6f45-45d0-b4d8-dc7bde888c0b" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCryIvaComprasTest, TestProject1" name="ShareDBLogonInfoTest" />
+    </UnitTest>
+    <UnitTest name="ShareDBLogonInfoTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="a7639f66-6db0-2c01-eff9-73967bbc6887">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="1527b186-8336-49c2-be05-ea1aeb7fc28d" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCryPresupuestoTest, TestProject1" name="ShareDBLogonInfoTest" />
+    </UnitTest>
+    <UnitTest name="CreateReportTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="a40cc0a0-5808-914d-8ca2-11dce0350950">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="fb95500a-6c95-407a-8ec3-502f4203918f" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCryIvaVentasTest, TestProject1" name="CreateReportTest" />
+    </UnitTest>
+    <UnitTest name="CacheTimeOutTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="525954ae-6196-8150-bd45-f4500d77c2d7">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="a323dd53-3e0a-496a-ab85-c7bdbe8b3670" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCrySaldosTest, TestProject1" name="CacheTimeOutTest" />
+    </UnitTest>
+    <UnitTest name="GetCustomizedCacheKeyTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="f3c2043f-6c72-7d43-c619-320679b70611">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="bbaa58cd-515e-47a9-aeeb-80748d1b4faa" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCryPresupuestoTest, TestProject1" name="GetCustomizedCacheKeyTest" />
+    </UnitTest>
+    <UnitTest name="IsCacheableTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="f151f9c6-33e6-1ba4-c913-985f6e42a4ce">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="ad45c8b5-e308-4bee-9e9a-e4f1c14aac4c" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCryRemitoTest, TestProject1" name="IsCacheableTest" />
+    </UnitTest>
+    <UnitTest name="CacheTimeOutTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="c5b6637b-56d1-30f5-25e3-394a1f2c3701">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="0a060329-aace-4e28-ae90-f67500c0e19e" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCryPresupuestoTest, TestProject1" name="CacheTimeOutTest" />
+    </UnitTest>
+    <UnitTest name="CreateReportTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="9acbbf7d-c0e8-0755-ab01-98cc5d8a05c2">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="1475a9e5-4995-439f-8f65-b51230d6148f" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCryPresupuestoTest, TestProject1" name="CreateReportTest" />
+    </UnitTest>
+    <UnitTest name="CacheTimeOutTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="f0c2a327-90b5-96fa-e792-d6b2243b094d">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="99a40187-b226-4609-9573-6b87b38445d1" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCryReciboTest, TestProject1" name="CacheTimeOutTest" />
+    </UnitTest>
+    <UnitTest name="CacheTimeOutTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="ea4f98cc-3822-c85a-b245-b2e6ef508118">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="04a92bfc-e939-46a1-b96c-9fe3775723f4" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCryIvaComprasTest, TestProject1" name="CacheTimeOutTest" />
+    </UnitTest>
+    <UnitTest name="GetCustomizedCacheKeyTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="6374bdbb-44fc-ca9d-4ed3-b776eb1d0599">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="398bd9f0-61fd-4f69-8ae4-8bd7990783ea" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCryRcuenCliTest, TestProject1" name="GetCustomizedCacheKeyTest" />
+    </UnitTest>
+    <UnitTest name="GetCustomizedCacheKeyTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="37c7cf52-178a-8445-5b0b-fe81b3e9ba53">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="7cdfe8cb-82f1-466f-8a2d-5d43596fa492" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCryIvaVentasTest, TestProject1" name="GetCustomizedCacheKeyTest" />
+    </UnitTest>
+    <UnitTest name="CacheTimeOutTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="51db091b-5191-8ac9-7372-05ee0ce54499">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="e74b359b-db43-4c58-8896-992b875fe0c0" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCryDetVenTest, TestProject1" name="CacheTimeOutTest" />
+    </UnitTest>
+    <UnitTest name="IsCacheableTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="08caad3f-b459-d803-d4cb-3ab18a853220">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="1f3bb3e5-e1b9-4f00-9cb8-5b0ccb2f2188" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCryIvaComprasTest, TestProject1" name="IsCacheableTest" />
+    </UnitTest>
+    <UnitTest name="CacheTimeOutTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="ae1df9b5-0bc2-98c9-8dce-3811aeb16f39">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="d7a8300a-dfc7-41e3-8f12-39d9ad6cca58" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCryRemitoTest, TestProject1" name="CacheTimeOutTest" />
+    </UnitTest>
+    <UnitTest name="CreateReportTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="48ca33b3-10a1-0e5e-7c11-db830395c0b4">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="98871744-a507-4108-bbb1-942877c56a94" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCryRcuenProTest, TestProject1" name="CreateReportTest" />
+    </UnitTest>
+    <UnitTest name="CachedCryRemitoConstructorTest" storage="d:\proyectos.net\electrodomesticos\testproject1\bin\debug\testproject1.dll" id="9f32a4c5-7476-733b-93d9-a2bdd97616c4">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="0b1b29d1-2d77-41f8-9cda-6d52bd00f9a1" />
+      <TestMethod codeBase="D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.CachedCryRemitoTest, TestProject1" name="CachedCryRemitoConstructorTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Resultados que no están en la lista" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Todos los resultados cargados" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="1e573e7d-d702-0bf9-a045-f531105d421b" executionId="352ba30f-dfe6-479f-b8e2-f1e067bd089d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2bc9b6b4-89c6-0eab-e860-e2886e7ed26b" executionId="7b06bef1-5e0e-40bc-bb48-54bb901cf677" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="51db091b-5191-8ac9-7372-05ee0ce54499" executionId="e74b359b-db43-4c58-8896-992b875fe0c0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b957b282-66cf-9d5d-b1c9-00e219d95f5f" executionId="aefef3f5-ab9d-4bd4-b696-af852cb79a62" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a000ac3a-b3cf-7dc9-9ee2-0e04691f4271" executionId="f8e380b7-e841-4480-82af-88e52a8671f0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="da5a6e7d-b958-3b9d-d7c1-5bb2ae2909d7" executionId="1b1e754d-e0c4-4412-afcf-8dafd538c114" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6548b7ea-38e7-1e46-b186-cf6936768b0b" executionId="d43de7b6-6f45-45d0-b4d8-dc7bde888c0b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="08caad3f-b459-d803-d4cb-3ab18a853220" executionId="1f3bb3e5-e1b9-4f00-9cb8-5b0ccb2f2188" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ea4f98cc-3822-c85a-b245-b2e6ef508118" executionId="04a92bfc-e939-46a1-b96c-9fe3775723f4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e3b602d7-0a5b-89bd-b20e-89bc0df2b765" executionId="0a193c3a-9d2e-44a7-97ae-53f457c6845b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8c0cc0c0-6e89-1c7f-c419-ba8f2f463213" executionId="157cc4d9-f3c2-45e7-85d4-ee26f1cc6cd1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e44bc15c-34de-fcd7-bcef-ca3cfa4f02a9" executionId="a6a46d7b-65cd-4e89-a9dc-3f7160652b97" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f2fe63f0-4478-7b7b-bd25-44ea4473519d" executionId="0d32768f-5b42-43a1-b1d4-d6d1f2ba50ca" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="48356080-96ea-a088-861a-9579a93ce5eb" executionId="c483ddc1-0a99-4d95-8b86-3f7cba39a523" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f8990b1d-c48a-3414-d201-d7435c02494f" executionId="0dfcabaa-c1a5-4c09-ad2d-76fe2d56d249" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="37c7cf52-178a-8445-5b0b-fe81b3e9ba53" executionId="7cdfe8cb-82f1-466f-8a2d-5d43596fa492" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a40cc0a0-5808-914d-8ca2-11dce0350950" executionId="fb95500a-6c95-407a-8ec3-502f4203918f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="09e0f863-09d6-b76d-b04a-0e37d04800a7" executionId="b6d13be3-0531-4b1f-a1b6-552482b17f7b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a7639f66-6db0-2c01-eff9-73967bbc6887" executionId="1527b186-8336-49c2-be05-ea1aeb7fc28d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="edad2d04-4402-ff67-372a-e485f4f73632" executionId="da0cb452-16ee-4326-9c30-5b7e3266d346" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c5b6637b-56d1-30f5-25e3-394a1f2c3701" executionId="0a060329-aace-4e28-ae90-f67500c0e19e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f3c2043f-6c72-7d43-c619-320679b70611" executionId="bbaa58cd-515e-47a9-aeeb-80748d1b4faa" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9acbbf7d-c0e8-0755-ab01-98cc5d8a05c2" executionId="1475a9e5-4995-439f-8f65-b51230d6148f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5df935ca-425b-110e-7545-c5888243e40d" executionId="02a0bfcf-9c8e-4770-a4c9-fde7d0030987" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="81171e65-13b3-dfa5-4d5c-4176bfc246b4" executionId="c50a67b8-8954-4aa5-8aa1-7bf428b5339a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ba4abc08-a1b7-fe98-b626-723fcacbd3a7" executionId="556c8693-fcbe-4a8e-b773-7e263cb8246a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a4bd3537-8def-4f80-1731-34924e9f5cd7" executionId="60c8b687-33d9-4dd5-96dc-e2d6bb5c396c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6374bdbb-44fc-ca9d-4ed3-b776eb1d0599" executionId="398bd9f0-61fd-4f69-8ae4-8bd7990783ea" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4d40c7a3-99b0-4930-5cca-b071aee9869b" executionId="afd8e3df-fa99-4325-aee2-0cdecc2255c1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1b6c8988-4189-eb6b-b27e-e38d9bffe0f8" executionId="54c3e24b-8101-471b-892f-e2d86de3499a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1dc52c5d-3e37-e198-b650-867f9ba58074" executionId="05c0af5a-ed6c-4ae8-8155-1406528031b8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="441c275f-c39b-d2e3-ab42-db14ee4f6dc8" executionId="3e98f2d5-ae60-4e51-bf97-b9551b0693f1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fef00f9b-0352-e80f-0b91-72a3cc1f81c0" executionId="1de29aff-fef1-4a7a-88d8-677e6f6879fe" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="059b06d8-72ff-d18a-8faa-030264bb8bb1" executionId="4c5d5d9a-0d05-478d-bad3-ce796a566ccd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="48ca33b3-10a1-0e5e-7c11-db830395c0b4" executionId="98871744-a507-4108-bbb1-942877c56a94" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a883e6cb-2eb2-7d7c-5bee-8183ad325696" executionId="b43a0af6-e1cc-4f01-8f3f-cf0417c23e22" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="872cf683-6b93-cca5-b2ea-1cfc270ce02c" executionId="732d7f29-cd87-45cf-803b-23b8e45394ff" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2e7637f6-522d-7840-755d-30282e72a76f" executionId="a173d8c1-088c-4aa8-989f-e2f88a7d3848" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f0c2a327-90b5-96fa-e792-d6b2243b094d" executionId="99a40187-b226-4609-9573-6b87b38445d1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f9f3809d-e0ab-887c-e1be-efe95001befe" executionId="6d3f9da5-39a8-4e47-a19f-158797aff7c4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3c43767c-9985-e5c5-7666-b7f244210708" executionId="cbe572c9-0c42-48c6-b097-452764e601d8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0055ee27-db03-15f0-b36a-b90c6f40ca44" executionId="a4e92bd1-c32e-411b-89f8-f3c338c96496" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0308a57f-dab5-0109-ff7c-779e3e578ffc" executionId="3e3f1628-4a97-4d09-b48b-f050317ba48c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f151f9c6-33e6-1ba4-c913-985f6e42a4ce" executionId="ad45c8b5-e308-4bee-9e9a-e4f1c14aac4c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ae1df9b5-0bc2-98c9-8dce-3811aeb16f39" executionId="d7a8300a-dfc7-41e3-8f12-39d9ad6cca58" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ee6191bd-2685-9940-ab51-815288298a19" executionId="428a28a1-c513-441b-a9fe-f20514ca86ae" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1847a43c-1537-d8c4-724e-1b749234b0c3" executionId="e58732f2-05a7-4a6f-a323-2a0280c265bd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9f32a4c5-7476-733b-93d9-a2bdd97616c4" executionId="0b1b29d1-2d77-41f8-9cda-6d52bd00f9a1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="045954f0-58a1-44d3-7628-f98a7662279f" executionId="e229f18b-1f64-4bfd-8c24-34d7d7dcc555" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d222b6da-dd5f-6429-69cb-14ed4233f081" executionId="19c73500-95bc-44fe-9c38-525478a36142" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="525954ae-6196-8150-bd45-f4500d77c2d7" executionId="a323dd53-3e0a-496a-ab85-c7bdbe8b3670" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="aed3dc00-ed5a-cfea-bcf3-4aca543a63ee" executionId="bef866ea-1d46-4fcd-bd4b-2faca761cf1e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="76810870-2418-1636-bbe8-930c32d5ff8f" executionId="1a5bf036-fe1e-4f78-9812-83b441705f45" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a436d66d-8ea9-e3be-7bdd-223c4e68e53a" executionId="79f7f64a-b742-47b7-be5f-ba892fe1ac56" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="43c8ba4e-d1db-64fe-fd99-094edca978cf" executionId="a2970230-d927-45a9-910a-922413eca1d5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="352ba30f-dfe6-479f-b8e2-f1e067bd089d" testId="1e573e7d-d702-0bf9-a045-f531105d421b" testName="ShareDBLogonInfoTest" computerName="NTIVAN" duration="00:00:00.1948641" startTime="2016-01-13T08:06:11.7431836-03:00" endTime="2016-01-13T08:06:12.2174998-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.Inconclusive. Compruebe la exactitud de este método de prueba.</Message>
+          <StackTrace>   en TestProject1.CachedCryDetVenTest.ShareDBLogonInfoTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCryDetVenTest.vb:línea 76
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="7b06bef1-5e0e-40bc-bb48-54bb901cf677" testId="2bc9b6b4-89c6-0eab-e860-e2886e7ed26b" testName="IsCacheableTest" computerName="NTIVAN" duration="00:00:00.0138006" startTime="2016-01-13T08:06:12.2205035-03:00" endTime="2016-01-13T08:06:12.2385150-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.AreEqual. Se esperaba &lt;False&gt;, pero es &lt;True&gt;. </Message>
+          <StackTrace>   en TestProject1.CachedCryDetVenTest.IsCacheableTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCryDetVenTest.vb:línea 89
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="e74b359b-db43-4c58-8896-992b875fe0c0" testId="51db091b-5191-8ac9-7372-05ee0ce54499" testName="CacheTimeOutTest" computerName="NTIVAN" duration="00:00:00.0131882" startTime="2016-01-13T08:06:12.2425188-03:00" endTime="2016-01-13T08:06:12.2605285-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.AreEqual. Se esperaba &lt;00:00:00&gt;, pero es &lt;02:10:00&gt;. </Message>
+          <StackTrace>   en TestProject1.CachedCryDetVenTest.CacheTimeOutTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCryDetVenTest.vb:línea 103
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="aefef3f5-ab9d-4bd4-b696-af852cb79a62" testId="b957b282-66cf-9d5d-b1c9-00e219d95f5f" testName="GetCustomizedCacheKeyTest" computerName="NTIVAN" duration="00:00:00.0131147" startTime="2016-01-13T08:06:12.2705351-03:00" endTime="2016-01-13T08:06:12.2875482-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.AreEqual. Se esperaba &lt;&gt;, pero es &lt;(null)&gt;. </Message>
+          <StackTrace>   en TestProject1.CachedCryDetVenTest.GetCustomizedCacheKeyTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCryDetVenTest.vb:línea 117
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="f8e380b7-e841-4480-82af-88e52a8671f0" testId="a000ac3a-b3cf-7dc9-9ee2-0e04691f4271" testName="CreateReportTest" computerName="NTIVAN" duration="00:00:00.1988981" startTime="2016-01-13T08:06:12.2915491-03:00" endTime="2016-01-13T08:06:12.4947202-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.AreEqual. Se esperaba &lt;(null)&gt;, pero es &lt;Super.CryDetVen&gt;. </Message>
+          <StackTrace>   en TestProject1.CachedCryDetVenTest.CreateReportTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCryDetVenTest.vb:línea 130
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="1b1e754d-e0c4-4412-afcf-8dafd538c114" testId="da5a6e7d-b958-3b9d-d7c1-5bb2ae2909d7" testName="CachedCryDetVenConstructorTest" computerName="NTIVAN" duration="00:00:00.0120353" startTime="2016-01-13T08:06:12.4977228-03:00" endTime="2016-01-13T08:06:12.5137312-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.Inconclusive. TODO: Implementar código para comprobar el destino</Message>
+          <StackTrace>   en TestProject1.CachedCryDetVenTest.CachedCryDetVenConstructorTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCryDetVenTest.vb:línea 140
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="d43de7b6-6f45-45d0-b4d8-dc7bde888c0b" testId="6548b7ea-38e7-1e46-b186-cf6936768b0b" testName="ShareDBLogonInfoTest" computerName="NTIVAN" duration="00:00:00.0111071" startTime="2016-01-13T08:06:12.5167337-03:00" endTime="2016-01-13T08:06:12.5317426-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.Inconclusive. Compruebe la exactitud de este método de prueba.</Message>
+          <StackTrace>   en TestProject1.CachedCryIvaComprasTest.ShareDBLogonInfoTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCryIvaComprasTest.vb:línea 76
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="1f3bb3e5-e1b9-4f00-9cb8-5b0ccb2f2188" testId="08caad3f-b459-d803-d4cb-3ab18a853220" testName="IsCacheableTest" computerName="NTIVAN" duration="00:00:00.0106435" startTime="2016-01-13T08:06:12.5367499-03:00" endTime="2016-01-13T08:06:12.5517571-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.AreEqual. Se esperaba &lt;False&gt;, pero es &lt;True&gt;. </Message>
+          <StackTrace>   en TestProject1.CachedCryIvaComprasTest.IsCacheableTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCryIvaComprasTest.vb:línea 89
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="04a92bfc-e939-46a1-b96c-9fe3775723f4" testId="ea4f98cc-3822-c85a-b245-b2e6ef508118" testName="CacheTimeOutTest" computerName="NTIVAN" duration="00:00:00.0099234" startTime="2016-01-13T08:06:12.5557597-03:00" endTime="2016-01-13T08:06:12.5687684-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.AreEqual. Se esperaba &lt;00:00:00&gt;, pero es &lt;02:10:00&gt;. </Message>
+          <StackTrace>   en TestProject1.CachedCryIvaComprasTest.CacheTimeOutTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCryIvaComprasTest.vb:línea 103
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="0a193c3a-9d2e-44a7-97ae-53f457c6845b" testId="e3b602d7-0a5b-89bd-b20e-89bc0df2b765" testName="GetCustomizedCacheKeyTest" computerName="NTIVAN" duration="00:00:00.0098321" startTime="2016-01-13T08:06:12.5727710-03:00" endTime="2016-01-13T08:06:12.5857797-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.AreEqual. Se esperaba &lt;&gt;, pero es &lt;(null)&gt;. </Message>
+          <StackTrace>   en TestProject1.CachedCryIvaComprasTest.GetCustomizedCacheKeyTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCryIvaComprasTest.vb:línea 117
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="157cc4d9-f3c2-45e7-85d4-ee26f1cc6cd1" testId="8c0cc0c0-6e89-1c7f-c419-ba8f2f463213" testName="CreateReportTest" computerName="NTIVAN" duration="00:00:00.0131865" startTime="2016-01-13T08:06:12.5897824-03:00" endTime="2016-01-13T08:06:12.6097957-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.AreEqual. Se esperaba &lt;(null)&gt;, pero es &lt;Super.CryIvaCompras&gt;. </Message>
+          <StackTrace>   en TestProject1.CachedCryIvaComprasTest.CreateReportTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCryIvaComprasTest.vb:línea 130
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="a6a46d7b-65cd-4e89-a9dc-3f7160652b97" testId="e44bc15c-34de-fcd7-bcef-ca3cfa4f02a9" testName="CachedCryIvaComprasConstructorTest" computerName="NTIVAN" duration="00:00:00.0093959" startTime="2016-01-13T08:06:12.6137983-03:00" endTime="2016-01-13T08:06:12.6268070-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.Inconclusive. TODO: Implementar código para comprobar el destino</Message>
+          <StackTrace>   en TestProject1.CachedCryIvaComprasTest.CachedCryIvaComprasConstructorTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCryIvaComprasTest.vb:línea 140
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="0d32768f-5b42-43a1-b1d4-d6d1f2ba50ca" testId="f2fe63f0-4478-7b7b-bd25-44ea4473519d" testName="ShareDBLogonInfoTest" computerName="NTIVAN" duration="00:00:00.0106116" startTime="2016-01-13T08:06:12.6298096-03:00" endTime="2016-01-13T08:06:12.6448178-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.Inconclusive. Compruebe la exactitud de este método de prueba.</Message>
+          <StackTrace>   en TestProject1.CachedCryIvaVentasTest.ShareDBLogonInfoTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCryIvaVentasTest.vb:línea 76
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="c483ddc1-0a99-4d95-8b86-3f7cba39a523" testId="48356080-96ea-a088-861a-9579a93ce5eb" testName="IsCacheableTest" computerName="NTIVAN" duration="00:00:00.0094615" startTime="2016-01-13T08:06:12.6488239-03:00" endTime="2016-01-13T08:06:12.6628310-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.AreEqual. Se esperaba &lt;False&gt;, pero es &lt;True&gt;. </Message>
+          <StackTrace>   en TestProject1.CachedCryIvaVentasTest.IsCacheableTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCryIvaVentasTest.vb:línea 89
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="0dfcabaa-c1a5-4c09-ad2d-76fe2d56d249" testId="f8990b1d-c48a-3414-d201-d7435c02494f" testName="CacheTimeOutTest" computerName="NTIVAN" duration="00:00:00.0099844" startTime="2016-01-13T08:06:12.6868470-03:00" endTime="2016-01-13T08:06:12.7008568-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.AreEqual. Se esperaba &lt;00:00:00&gt;, pero es &lt;02:10:00&gt;. </Message>
+          <StackTrace>   en TestProject1.CachedCryIvaVentasTest.CacheTimeOutTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCryIvaVentasTest.vb:línea 103
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="7cdfe8cb-82f1-466f-8a2d-5d43596fa492" testId="37c7cf52-178a-8445-5b0b-fe81b3e9ba53" testName="GetCustomizedCacheKeyTest" computerName="NTIVAN" duration="00:00:00.0102307" startTime="2016-01-13T08:06:12.7048595-03:00" endTime="2016-01-13T08:06:12.7188677-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.AreEqual. Se esperaba &lt;&gt;, pero es &lt;(null)&gt;. </Message>
+          <StackTrace>   en TestProject1.CachedCryIvaVentasTest.GetCustomizedCacheKeyTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCryIvaVentasTest.vb:línea 117
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="fb95500a-6c95-407a-8ec3-502f4203918f" testId="a40cc0a0-5808-914d-8ca2-11dce0350950" testName="CreateReportTest" computerName="NTIVAN" duration="00:00:00.0127988" startTime="2016-01-13T08:06:12.7218708-03:00" endTime="2016-01-13T08:06:12.7388822-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.AreEqual. Se esperaba &lt;(null)&gt;, pero es &lt;Super.CryIvaVentas&gt;. </Message>
+          <StackTrace>   en TestProject1.CachedCryIvaVentasTest.CreateReportTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCryIvaVentasTest.vb:línea 130
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="b6d13be3-0531-4b1f-a1b6-552482b17f7b" testId="09e0f863-09d6-b76d-b04a-0e37d04800a7" testName="CachedCryIvaVentasConstructorTest" computerName="NTIVAN" duration="00:00:00.0092956" startTime="2016-01-13T08:06:12.7418842-03:00" endTime="2016-01-13T08:06:12.7548917-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.Inconclusive. TODO: Implementar código para comprobar el destino</Message>
+          <StackTrace>   en TestProject1.CachedCryIvaVentasTest.CachedCryIvaVentasConstructorTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCryIvaVentasTest.vb:línea 140
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="1527b186-8336-49c2-be05-ea1aeb7fc28d" testId="a7639f66-6db0-2c01-eff9-73967bbc6887" testName="ShareDBLogonInfoTest" computerName="NTIVAN" duration="00:00:00.0108727" startTime="2016-01-13T08:06:12.7578942-03:00" endTime="2016-01-13T08:06:12.7729037-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.Inconclusive. Compruebe la exactitud de este método de prueba.</Message>
+          <StackTrace>   en TestProject1.CachedCryPresupuestoTest.ShareDBLogonInfoTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCryPresupuestoTest.vb:línea 76
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="da0cb452-16ee-4326-9c30-5b7e3266d346" testId="edad2d04-4402-ff67-372a-e485f4f73632" testName="IsCacheableTest" computerName="NTIVAN" duration="00:00:00.0096588" startTime="2016-01-13T08:06:12.7759062-03:00" endTime="2016-01-13T08:06:12.7899156-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.AreEqual. Se esperaba &lt;False&gt;, pero es &lt;True&gt;. </Message>
+          <StackTrace>   en TestProject1.CachedCryPresupuestoTest.IsCacheableTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCryPresupuestoTest.vb:línea 89
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="0a060329-aace-4e28-ae90-f67500c0e19e" testId="c5b6637b-56d1-30f5-25e3-394a1f2c3701" testName="CacheTimeOutTest" computerName="NTIVAN" duration="00:00:00.0097956" startTime="2016-01-13T08:06:12.7939188-03:00" endTime="2016-01-13T08:06:12.8069263-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.AreEqual. Se esperaba &lt;00:00:00&gt;, pero es &lt;02:10:00&gt;. </Message>
+          <StackTrace>   en TestProject1.CachedCryPresupuestoTest.CacheTimeOutTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCryPresupuestoTest.vb:línea 103
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="bbaa58cd-515e-47a9-aeeb-80748d1b4faa" testId="f3c2043f-6c72-7d43-c619-320679b70611" testName="GetCustomizedCacheKeyTest" computerName="NTIVAN" duration="00:00:00.0099730" startTime="2016-01-13T08:06:12.8109318-03:00" endTime="2016-01-13T08:06:12.8239393-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.AreEqual. Se esperaba &lt;&gt;, pero es &lt;(null)&gt;. </Message>
+          <StackTrace>   en TestProject1.CachedCryPresupuestoTest.GetCustomizedCacheKeyTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCryPresupuestoTest.vb:línea 117
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="1475a9e5-4995-439f-8f65-b51230d6148f" testId="9acbbf7d-c0e8-0755-ab01-98cc5d8a05c2" testName="CreateReportTest" computerName="NTIVAN" duration="00:00:00.0120775" startTime="2016-01-13T08:06:12.8279409-03:00" endTime="2016-01-13T08:06:12.8449522-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.AreEqual. Se esperaba &lt;(null)&gt;, pero es &lt;Super.CryPresupuesto&gt;. </Message>
+          <StackTrace>   en TestProject1.CachedCryPresupuestoTest.CreateReportTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCryPresupuestoTest.vb:línea 130
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="02a0bfcf-9c8e-4770-a4c9-fde7d0030987" testId="5df935ca-425b-110e-7545-c5888243e40d" testName="CachedCryPresupuestoConstructorTest" computerName="NTIVAN" duration="00:00:00.0091645" startTime="2016-01-13T08:06:12.8479547-03:00" endTime="2016-01-13T08:06:12.8609628-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.Inconclusive. TODO: Implementar código para comprobar el destino</Message>
+          <StackTrace>   en TestProject1.CachedCryPresupuestoTest.CachedCryPresupuestoConstructorTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCryPresupuestoTest.vb:línea 140
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="c50a67b8-8954-4aa5-8aa1-7bf428b5339a" testId="81171e65-13b3-dfa5-4d5c-4176bfc246b4" testName="ShareDBLogonInfoTest" computerName="NTIVAN" duration="00:00:00.0111829" startTime="2016-01-13T08:06:12.8659667-03:00" endTime="2016-01-13T08:06:12.8809762-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.Inconclusive. Compruebe la exactitud de este método de prueba.</Message>
+          <StackTrace>   en TestProject1.CachedCryRcuenCliTest.ShareDBLogonInfoTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCryRcuenCliTest.vb:línea 76
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="556c8693-fcbe-4a8e-b773-7e263cb8246a" testId="ba4abc08-a1b7-fe98-b626-723fcacbd3a7" testName="IsCacheableTest" computerName="NTIVAN" duration="00:00:00.0102415" startTime="2016-01-13T08:06:12.8849782-03:00" endTime="2016-01-13T08:06:12.8989887-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.AreEqual. Se esperaba &lt;False&gt;, pero es &lt;True&gt;. </Message>
+          <StackTrace>   en TestProject1.CachedCryRcuenCliTest.IsCacheableTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCryRcuenCliTest.vb:línea 89
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="60c8b687-33d9-4dd5-96dc-e2d6bb5c396c" testId="a4bd3537-8def-4f80-1731-34924e9f5cd7" testName="CacheTimeOutTest" computerName="NTIVAN" duration="00:00:00.0096548" startTime="2016-01-13T08:06:12.9039920-03:00" endTime="2016-01-13T08:06:12.9169996-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.AreEqual. Se esperaba &lt;00:00:00&gt;, pero es &lt;02:10:00&gt;. </Message>
+          <StackTrace>   en TestProject1.CachedCryRcuenCliTest.CacheTimeOutTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCryRcuenCliTest.vb:línea 103
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="398bd9f0-61fd-4f69-8ae4-8bd7990783ea" testId="6374bdbb-44fc-ca9d-4ed3-b776eb1d0599" testName="GetCustomizedCacheKeyTest" computerName="NTIVAN" duration="00:00:00.0099416" startTime="2016-01-13T08:06:12.9210039-03:00" endTime="2016-01-13T08:06:12.9350121-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.AreEqual. Se esperaba &lt;&gt;, pero es &lt;(null)&gt;. </Message>
+          <StackTrace>   en TestProject1.CachedCryRcuenCliTest.GetCustomizedCacheKeyTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCryRcuenCliTest.vb:línea 117
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="afd8e3df-fa99-4325-aee2-0cdecc2255c1" testId="4d40c7a3-99b0-4930-5cca-b071aee9869b" testName="CreateReportTest" computerName="NTIVAN" duration="00:00:00.0118551" startTime="2016-01-13T08:06:12.9580742-03:00" endTime="2016-01-13T08:06:12.9740848-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.AreEqual. Se esperaba &lt;(null)&gt;, pero es &lt;Super.CryRcuenCli&gt;. </Message>
+          <StackTrace>   en TestProject1.CachedCryRcuenCliTest.CreateReportTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCryRcuenCliTest.vb:línea 130
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="54c3e24b-8101-471b-892f-e2d86de3499a" testId="1b6c8988-4189-eb6b-b27e-e38d9bffe0f8" testName="CachedCryRcuenCliConstructorTest" computerName="NTIVAN" duration="00:00:00.0093327" startTime="2016-01-13T08:06:12.9780892-03:00" endTime="2016-01-13T08:06:12.9900961-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.Inconclusive. TODO: Implementar código para comprobar el destino</Message>
+          <StackTrace>   en TestProject1.CachedCryRcuenCliTest.CachedCryRcuenCliConstructorTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCryRcuenCliTest.vb:línea 140
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="05c0af5a-ed6c-4ae8-8155-1406528031b8" testId="1dc52c5d-3e37-e198-b650-867f9ba58074" testName="ShareDBLogonInfoTest" computerName="NTIVAN" duration="00:00:00.0107735" startTime="2016-01-13T08:06:12.9951005-03:00" endTime="2016-01-13T08:06:13.0091076-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.Inconclusive. Compruebe la exactitud de este método de prueba.</Message>
+          <StackTrace>   en TestProject1.CachedCryRcuenProTest.ShareDBLogonInfoTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCryRcuenProTest.vb:línea 76
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="3e98f2d5-ae60-4e51-bf97-b9551b0693f1" testId="441c275f-c39b-d2e3-ab42-db14ee4f6dc8" testName="IsCacheableTest" computerName="NTIVAN" duration="00:00:00.0101127" startTime="2016-01-13T08:06:13.0131120-03:00" endTime="2016-01-13T08:06:13.0271196-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.AreEqual. Se esperaba &lt;False&gt;, pero es &lt;True&gt;. </Message>
+          <StackTrace>   en TestProject1.CachedCryRcuenProTest.IsCacheableTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCryRcuenProTest.vb:línea 89
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="1de29aff-fef1-4a7a-88d8-677e6f6879fe" testId="fef00f9b-0352-e80f-0b91-72a3cc1f81c0" testName="CacheTimeOutTest" computerName="NTIVAN" duration="00:00:00.0108870" startTime="2016-01-13T08:06:13.0311234-03:00" endTime="2016-01-13T08:06:13.0451316-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.AreEqual. Se esperaba &lt;00:00:00&gt;, pero es &lt;02:10:00&gt;. </Message>
+          <StackTrace>   en TestProject1.CachedCryRcuenProTest.CacheTimeOutTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCryRcuenProTest.vb:línea 103
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="4c5d5d9a-0d05-478d-bad3-ce796a566ccd" testId="059b06d8-72ff-d18a-8faa-030264bb8bb1" testName="GetCustomizedCacheKeyTest" computerName="NTIVAN" duration="00:00:00.0101492" startTime="2016-01-13T08:06:13.0491348-03:00" endTime="2016-01-13T08:06:13.0641448-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.AreEqual. Se esperaba &lt;&gt;, pero es &lt;(null)&gt;. </Message>
+          <StackTrace>   en TestProject1.CachedCryRcuenProTest.GetCustomizedCacheKeyTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCryRcuenProTest.vb:línea 117
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="98871744-a507-4108-bbb1-942877c56a94" testId="48ca33b3-10a1-0e5e-7c11-db830395c0b4" testName="CreateReportTest" computerName="NTIVAN" duration="00:00:00.0118711" startTime="2016-01-13T08:06:13.0862290-03:00" endTime="2016-01-13T08:06:13.1022391-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.AreEqual. Se esperaba &lt;(null)&gt;, pero es &lt;Super.CryRcuenPro&gt;. </Message>
+          <StackTrace>   en TestProject1.CachedCryRcuenProTest.CreateReportTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCryRcuenProTest.vb:línea 130
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="b43a0af6-e1cc-4f01-8f3f-cf0417c23e22" testId="a883e6cb-2eb2-7d7c-5bee-8183ad325696" testName="CachedCryRcuenProConstructorTest" computerName="NTIVAN" duration="00:00:00.0102392" startTime="2016-01-13T08:06:13.1042393-03:00" endTime="2016-01-13T08:06:13.1182497-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.Inconclusive. TODO: Implementar código para comprobar el destino</Message>
+          <StackTrace>   en TestProject1.CachedCryRcuenProTest.CachedCryRcuenProConstructorTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCryRcuenProTest.vb:línea 140
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="732d7f29-cd87-45cf-803b-23b8e45394ff" testId="872cf683-6b93-cca5-b2ea-1cfc270ce02c" testName="ShareDBLogonInfoTest" computerName="NTIVAN" duration="00:00:00.0109748" startTime="2016-01-13T08:06:13.1222541-03:00" endTime="2016-01-13T08:06:13.1372624-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.Inconclusive. Compruebe la exactitud de este método de prueba.</Message>
+          <StackTrace>   en TestProject1.CachedCryReciboTest.ShareDBLogonInfoTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCryReciboTest.vb:línea 76
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="a173d8c1-088c-4aa8-989f-e2f88a7d3848" testId="2e7637f6-522d-7840-755d-30282e72a76f" testName="IsCacheableTest" computerName="NTIVAN" duration="00:00:00.0102353" startTime="2016-01-13T08:06:13.1402638-03:00" endTime="2016-01-13T08:06:13.1552749-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.AreEqual. Se esperaba &lt;False&gt;, pero es &lt;True&gt;. </Message>
+          <StackTrace>   en TestProject1.CachedCryReciboTest.IsCacheableTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCryReciboTest.vb:línea 89
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="99a40187-b226-4609-9573-6b87b38445d1" testId="f0c2a327-90b5-96fa-e792-d6b2243b094d" testName="CacheTimeOutTest" computerName="NTIVAN" duration="00:00:00.0101492" startTime="2016-01-13T08:06:13.1762918-03:00" endTime="2016-01-13T08:06:13.1912995-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.AreEqual. Se esperaba &lt;00:00:00&gt;, pero es &lt;02:10:00&gt;. </Message>
+          <StackTrace>   en TestProject1.CachedCryReciboTest.CacheTimeOutTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCryReciboTest.vb:línea 103
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="6d3f9da5-39a8-4e47-a19f-158797aff7c4" testId="f9f3809d-e0ab-887c-e1be-efe95001befe" testName="GetCustomizedCacheKeyTest" computerName="NTIVAN" duration="00:00:00.0100613" startTime="2016-01-13T08:06:13.1963028-03:00" endTime="2016-01-13T08:06:13.2093109-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.AreEqual. Se esperaba &lt;&gt;, pero es &lt;(null)&gt;. </Message>
+          <StackTrace>   en TestProject1.CachedCryReciboTest.GetCustomizedCacheKeyTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCryReciboTest.vb:línea 117
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="cbe572c9-0c42-48c6-b097-452764e601d8" testId="3c43767c-9985-e5c5-7666-b7f244210708" testName="CreateReportTest" computerName="NTIVAN" duration="00:00:00.0125639" startTime="2016-01-13T08:06:13.2335521-03:00" endTime="2016-01-13T08:06:13.2495622-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.AreEqual. Se esperaba &lt;(null)&gt;, pero es &lt;Super.CryRecibo&gt;. </Message>
+          <StackTrace>   en TestProject1.CachedCryReciboTest.CreateReportTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCryReciboTest.vb:línea 130
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="a4e92bd1-c32e-411b-89f8-f3c338c96496" testId="0055ee27-db03-15f0-b36a-b90c6f40ca44" testName="CachedCryReciboConstructorTest" computerName="NTIVAN" duration="00:00:00.0101435" startTime="2016-01-13T08:06:13.2535649-03:00" endTime="2016-01-13T08:06:13.2675748-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.Inconclusive. TODO: Implementar código para comprobar el destino</Message>
+          <StackTrace>   en TestProject1.CachedCryReciboTest.CachedCryReciboConstructorTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCryReciboTest.vb:línea 140
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="3e3f1628-4a97-4d09-b48b-f050317ba48c" testId="0308a57f-dab5-0109-ff7c-779e3e578ffc" testName="ShareDBLogonInfoTest" computerName="NTIVAN" duration="00:00:00.0118420" startTime="2016-01-13T08:06:13.2715780-03:00" endTime="2016-01-13T08:06:13.2875881-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.Inconclusive. Compruebe la exactitud de este método de prueba.</Message>
+          <StackTrace>   en TestProject1.CachedCryRemitoTest.ShareDBLogonInfoTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCryRemitoTest.vb:línea 76
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="ad45c8b5-e308-4bee-9e9a-e4f1c14aac4c" testId="f151f9c6-33e6-1ba4-c913-985f6e42a4ce" testName="IsCacheableTest" computerName="NTIVAN" duration="00:00:00.0108231" startTime="2016-01-13T08:06:13.2915902-03:00" endTime="2016-01-13T08:06:13.3066002-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.AreEqual. Se esperaba &lt;False&gt;, pero es &lt;True&gt;. </Message>
+          <StackTrace>   en TestProject1.CachedCryRemitoTest.IsCacheableTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCryRemitoTest.vb:línea 89
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="d7a8300a-dfc7-41e3-8f12-39d9ad6cca58" testId="ae1df9b5-0bc2-98c9-8dce-3811aeb16f39" testName="CacheTimeOutTest" computerName="NTIVAN" duration="00:00:00.0115991" startTime="2016-01-13T08:06:13.3308556-03:00" endTime="2016-01-13T08:06:13.3468640-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.AreEqual. Se esperaba &lt;00:00:00&gt;, pero es &lt;02:10:00&gt;. </Message>
+          <StackTrace>   en TestProject1.CachedCryRemitoTest.CacheTimeOutTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCryRemitoTest.vb:línea 103
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="428a28a1-c513-441b-a9fe-f20514ca86ae" testId="ee6191bd-2685-9940-ab51-815288298a19" testName="GetCustomizedCacheKeyTest" computerName="NTIVAN" duration="00:00:00.0114081" startTime="2016-01-13T08:06:13.3498683-03:00" endTime="2016-01-13T08:06:13.3658772-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.AreEqual. Se esperaba &lt;&gt;, pero es &lt;(null)&gt;. </Message>
+          <StackTrace>   en TestProject1.CachedCryRemitoTest.GetCustomizedCacheKeyTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCryRemitoTest.vb:línea 117
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="e58732f2-05a7-4a6f-a323-2a0280c265bd" testId="1847a43c-1537-d8c4-724e-1b749234b0c3" testName="CreateReportTest" computerName="NTIVAN" duration="00:00:00.0126232" startTime="2016-01-13T08:06:13.3889022-03:00" endTime="2016-01-13T08:06:13.4059033-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.AreEqual. Se esperaba &lt;(null)&gt;, pero es &lt;Super.CryRemito&gt;. </Message>
+          <StackTrace>   en TestProject1.CachedCryRemitoTest.CreateReportTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCryRemitoTest.vb:línea 130
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="0b1b29d1-2d77-41f8-9cda-6d52bd00f9a1" testId="9f32a4c5-7476-733b-93d9-a2bdd97616c4" testName="CachedCryRemitoConstructorTest" computerName="NTIVAN" duration="00:00:00.0101423" startTime="2016-01-13T08:06:13.4099065-03:00" endTime="2016-01-13T08:06:13.4239164-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.Inconclusive. TODO: Implementar código para comprobar el destino</Message>
+          <StackTrace>   en TestProject1.CachedCryRemitoTest.CachedCryRemitoConstructorTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCryRemitoTest.vb:línea 140
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="e229f18b-1f64-4bfd-8c24-34d7d7dcc555" testId="045954f0-58a1-44d3-7628-f98a7662279f" testName="ShareDBLogonInfoTest" computerName="NTIVAN" duration="00:00:00.0111584" startTime="2016-01-13T08:06:13.4279185-03:00" endTime="2016-01-13T08:06:13.4429279-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.Inconclusive. Compruebe la exactitud de este método de prueba.</Message>
+          <StackTrace>   en TestProject1.CachedCrySaldosTest.ShareDBLogonInfoTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCrySaldosTest.vb:línea 76
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="19c73500-95bc-44fe-9c38-525478a36142" testId="d222b6da-dd5f-6429-69cb-14ed4233f081" testName="IsCacheableTest" computerName="NTIVAN" duration="00:00:00.0099844" startTime="2016-01-13T08:06:13.4479313-03:00" endTime="2016-01-13T08:06:13.4629412-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.AreEqual. Se esperaba &lt;False&gt;, pero es &lt;True&gt;. </Message>
+          <StackTrace>   en TestProject1.CachedCrySaldosTest.IsCacheableTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCrySaldosTest.vb:línea 89
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="a323dd53-3e0a-496a-ab85-c7bdbe8b3670" testId="525954ae-6196-8150-bd45-f4500d77c2d7" testName="CacheTimeOutTest" computerName="NTIVAN" duration="00:00:00.0100300" startTime="2016-01-13T08:06:13.4659432-03:00" endTime="2016-01-13T08:06:13.4799526-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.AreEqual. Se esperaba &lt;00:00:00&gt;, pero es &lt;02:10:00&gt;. </Message>
+          <StackTrace>   en TestProject1.CachedCrySaldosTest.CacheTimeOutTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCrySaldosTest.vb:línea 103
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="bef866ea-1d46-4fcd-bd4b-2faca761cf1e" testId="aed3dc00-ed5a-cfea-bcf3-4aca543a63ee" testName="GetCustomizedCacheKeyTest" computerName="NTIVAN" duration="00:00:00.0100448" startTime="2016-01-13T08:06:13.4829557-03:00" endTime="2016-01-13T08:06:13.4969639-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.AreEqual. Se esperaba &lt;&gt;, pero es &lt;(null)&gt;. </Message>
+          <StackTrace>   en TestProject1.CachedCrySaldosTest.GetCustomizedCacheKeyTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCrySaldosTest.vb:línea 117
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="1a5bf036-fe1e-4f78-9812-83b441705f45" testId="76810870-2418-1636-bbe8-930c32d5ff8f" testName="CreateReportTest" computerName="NTIVAN" duration="00:00:00.0117725" startTime="2016-01-13T08:06:13.5009666-03:00" endTime="2016-01-13T08:06:13.5159765-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.AreEqual. Se esperaba &lt;(null)&gt;, pero es &lt;Super.CrySaldos&gt;. </Message>
+          <StackTrace>   en TestProject1.CachedCrySaldosTest.CreateReportTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCrySaldosTest.vb:línea 130
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="79f7f64a-b742-47b7-be5f-ba892fe1ac56" testId="a436d66d-8ea9-e3be-7bdd-223c4e68e53a" testName="CachedCrySaldosConstructorTest" computerName="NTIVAN" duration="00:00:00.0115233" startTime="2016-01-13T08:06:13.5199792-03:00" endTime="2016-01-13T08:06:13.5399925-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.Inconclusive. TODO: Implementar código para comprobar el destino</Message>
+          <StackTrace>   en TestProject1.CachedCrySaldosTest.CachedCrySaldosConstructorTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\CachedCrySaldosTest.vb:línea 140
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="a2970230-d927-45a9-910a-922413eca1d5" testId="43c8ba4e-d1db-64fe-fd99-094edca978cf" testName="DtcRecibo_ComprobanteDataTableConstructorTest" computerName="NTIVAN" duration="00:00:00.1209408" startTime="2016-01-13T08:06:13.5439952-03:00" endTime="2016-01-13T08:06:13.6690955-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>El método de prueba TestProject1.DtcRecibo_ComprobanteDataTableTest.DtcRecibo_ComprobanteDataTableConstructorTest produjo la excepción:  System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto..</Message>
+          <StackTrace>    en System.Data.DataTable..ctor(SerializationInfo info, StreamingContext context)
+   en System.Data.TypedTableBase`1..ctor(SerializationInfo info, StreamingContext context)
+   en Super.DtcRecibo.ComprobanteDataTable..ctor(SerializationInfo info, StreamingContext context) en D:\Proyectos.Net\Electrodomesticos\Dataset\DtcRecibo.Designer.vb:línea 732
+   en Super.DtcRecibo_Accessor.ComprobanteDataTable..ctor(SerializationInfo info, StreamingContext context)
+   en TestProject1.DtcRecibo_ComprobanteDataTableTest.DtcRecibo_ComprobanteDataTableConstructorTest() en D:\Proyectos.Net\Electrodomesticos\TestProject1\DtcRecibo_ComprobanteDataTableTest.vb:línea 67
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

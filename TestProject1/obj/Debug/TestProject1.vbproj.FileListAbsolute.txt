@@ -1,0 +1,16 @@
+D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.dll
+D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.pdb
+D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\TestProject1.xml
+D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\FiscalNET.dll
+D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\Interop.AcroPDFLib.dll
+D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\Interop.OCXFISLib.dll
+D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\Super.exe
+D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\Super.pdb
+D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\Super.xml
+D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\Super_Accessor.dll
+D:\Proyectos.Net\Electrodomesticos\TestProject1\bin\Debug\Super_Accessor.pdb
+D:\Proyectos.Net\Electrodomesticos\TestProject1\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos.Net\Electrodomesticos\TestProject1\obj\Debug\TestProject1.dll
+D:\Proyectos.Net\Electrodomesticos\TestProject1\obj\Debug\TestProject1.xml
+D:\Proyectos.Net\Electrodomesticos\TestProject1\obj\Debug\TestProject1.pdb

@@ -1,0 +1,331 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TestProject1
+</name>
+</assembly>
+<members>
+<member name="P:TestProject1.CachedCryPresupuestoTest.TestContext">
+	<summary>
+Obtiene o establece el contexto de la prueba que proporciona
+la información y funcionalidad para la ejecución de pruebas actual.
+</summary>
+</member><member name="M:TestProject1.CachedCryPresupuestoTest.ShareDBLogonInfoTest">
+	<summary>
+Una prueba de ShareDBLogonInfo
+</summary>
+</member><member name="M:TestProject1.CachedCryPresupuestoTest.IsCacheableTest">
+	<summary>
+Una prueba de IsCacheable
+</summary>
+</member><member name="M:TestProject1.CachedCryPresupuestoTest.CacheTimeOutTest">
+	<summary>
+Una prueba de CacheTimeOut
+</summary>
+</member><member name="M:TestProject1.CachedCryPresupuestoTest.GetCustomizedCacheKeyTest">
+	<summary>
+Una prueba de GetCustomizedCacheKey
+</summary>
+</member><member name="M:TestProject1.CachedCryPresupuestoTest.CreateReportTest">
+	<summary>
+Una prueba de CreateReport
+</summary>
+</member><member name="M:TestProject1.CachedCryPresupuestoTest.CachedCryPresupuestoConstructorTest">
+	<summary>
+Una prueba de Constructor CachedCryPresupuesto
+</summary>
+</member><member name="T:TestProject1.CachedCryPresupuestoTest">
+	<summary>
+Se trata de una clase de prueba para CachedCryPresupuestoTest y se pretende que
+contenga todas las pruebas unitarias CachedCryPresupuestoTest.
+</summary>
+</member><member name="P:TestProject1.CachedCryIvaComprasTest.TestContext">
+	<summary>
+Obtiene o establece el contexto de la prueba que proporciona
+la información y funcionalidad para la ejecución de pruebas actual.
+</summary>
+</member><member name="M:TestProject1.CachedCryIvaComprasTest.ShareDBLogonInfoTest">
+	<summary>
+Una prueba de ShareDBLogonInfo
+</summary>
+</member><member name="M:TestProject1.CachedCryIvaComprasTest.IsCacheableTest">
+	<summary>
+Una prueba de IsCacheable
+</summary>
+</member><member name="M:TestProject1.CachedCryIvaComprasTest.CacheTimeOutTest">
+	<summary>
+Una prueba de CacheTimeOut
+</summary>
+</member><member name="M:TestProject1.CachedCryIvaComprasTest.GetCustomizedCacheKeyTest">
+	<summary>
+Una prueba de GetCustomizedCacheKey
+</summary>
+</member><member name="M:TestProject1.CachedCryIvaComprasTest.CreateReportTest">
+	<summary>
+Una prueba de CreateReport
+</summary>
+</member><member name="M:TestProject1.CachedCryIvaComprasTest.CachedCryIvaComprasConstructorTest">
+	<summary>
+Una prueba de Constructor CachedCryIvaCompras
+</summary>
+</member><member name="T:TestProject1.CachedCryIvaComprasTest">
+	<summary>
+Se trata de una clase de prueba para CachedCryIvaComprasTest y se pretende que
+contenga todas las pruebas unitarias CachedCryIvaComprasTest.
+</summary>
+</member><member name="P:TestProject1.CachedCryRcuenCliTest.TestContext">
+	<summary>
+Obtiene o establece el contexto de la prueba que proporciona
+la información y funcionalidad para la ejecución de pruebas actual.
+</summary>
+</member><member name="M:TestProject1.CachedCryRcuenCliTest.ShareDBLogonInfoTest">
+	<summary>
+Una prueba de ShareDBLogonInfo
+</summary>
+</member><member name="M:TestProject1.CachedCryRcuenCliTest.IsCacheableTest">
+	<summary>
+Una prueba de IsCacheable
+</summary>
+</member><member name="M:TestProject1.CachedCryRcuenCliTest.CacheTimeOutTest">
+	<summary>
+Una prueba de CacheTimeOut
+</summary>
+</member><member name="M:TestProject1.CachedCryRcuenCliTest.GetCustomizedCacheKeyTest">
+	<summary>
+Una prueba de GetCustomizedCacheKey
+</summary>
+</member><member name="M:TestProject1.CachedCryRcuenCliTest.CreateReportTest">
+	<summary>
+Una prueba de CreateReport
+</summary>
+</member><member name="M:TestProject1.CachedCryRcuenCliTest.CachedCryRcuenCliConstructorTest">
+	<summary>
+Una prueba de Constructor CachedCryRcuenCli
+</summary>
+</member><member name="T:TestProject1.CachedCryRcuenCliTest">
+	<summary>
+Se trata de una clase de prueba para CachedCryRcuenCliTest y se pretende que
+contenga todas las pruebas unitarias CachedCryRcuenCliTest.
+</summary>
+</member><member name="P:TestProject1.DtcRecibo_ComprobanteDataTableTest.TestContext">
+	<summary>
+Obtiene o establece el contexto de la prueba que proporciona
+la información y funcionalidad para la ejecución de pruebas actual.
+</summary>
+</member><member name="M:TestProject1.DtcRecibo_ComprobanteDataTableTest.DtcRecibo_ComprobanteDataTableConstructorTest">
+	<summary>
+Una prueba de Constructor ComprobanteDataTable
+</summary>
+</member><member name="T:TestProject1.DtcRecibo_ComprobanteDataTableTest">
+	<summary>
+Se trata de una clase de prueba para DtcRecibo_ComprobanteDataTableTest y se pretende que
+contenga todas las pruebas unitarias DtcRecibo_ComprobanteDataTableTest.
+</summary>
+</member><member name="P:TestProject1.CachedCryRemitoTest.TestContext">
+	<summary>
+Obtiene o establece el contexto de la prueba que proporciona
+la información y funcionalidad para la ejecución de pruebas actual.
+</summary>
+</member><member name="M:TestProject1.CachedCryRemitoTest.ShareDBLogonInfoTest">
+	<summary>
+Una prueba de ShareDBLogonInfo
+</summary>
+</member><member name="M:TestProject1.CachedCryRemitoTest.IsCacheableTest">
+	<summary>
+Una prueba de IsCacheable
+</summary>
+</member><member name="M:TestProject1.CachedCryRemitoTest.CacheTimeOutTest">
+	<summary>
+Una prueba de CacheTimeOut
+</summary>
+</member><member name="M:TestProject1.CachedCryRemitoTest.GetCustomizedCacheKeyTest">
+	<summary>
+Una prueba de GetCustomizedCacheKey
+</summary>
+</member><member name="M:TestProject1.CachedCryRemitoTest.CreateReportTest">
+	<summary>
+Una prueba de CreateReport
+</summary>
+</member><member name="M:TestProject1.CachedCryRemitoTest.CachedCryRemitoConstructorTest">
+	<summary>
+Una prueba de Constructor CachedCryRemito
+</summary>
+</member><member name="T:TestProject1.CachedCryRemitoTest">
+	<summary>
+Se trata de una clase de prueba para CachedCryRemitoTest y se pretende que
+contenga todas las pruebas unitarias CachedCryRemitoTest.
+</summary>
+</member><member name="P:TestProject1.CachedCryRcuenProTest.TestContext">
+	<summary>
+Obtiene o establece el contexto de la prueba que proporciona
+la información y funcionalidad para la ejecución de pruebas actual.
+</summary>
+</member><member name="M:TestProject1.CachedCryRcuenProTest.ShareDBLogonInfoTest">
+	<summary>
+Una prueba de ShareDBLogonInfo
+</summary>
+</member><member name="M:TestProject1.CachedCryRcuenProTest.IsCacheableTest">
+	<summary>
+Una prueba de IsCacheable
+</summary>
+</member><member name="M:TestProject1.CachedCryRcuenProTest.CacheTimeOutTest">
+	<summary>
+Una prueba de CacheTimeOut
+</summary>
+</member><member name="M:TestProject1.CachedCryRcuenProTest.GetCustomizedCacheKeyTest">
+	<summary>
+Una prueba de GetCustomizedCacheKey
+</summary>
+</member><member name="M:TestProject1.CachedCryRcuenProTest.CreateReportTest">
+	<summary>
+Una prueba de CreateReport
+</summary>
+</member><member name="M:TestProject1.CachedCryRcuenProTest.CachedCryRcuenProConstructorTest">
+	<summary>
+Una prueba de Constructor CachedCryRcuenPro
+</summary>
+</member><member name="T:TestProject1.CachedCryRcuenProTest">
+	<summary>
+Se trata de una clase de prueba para CachedCryRcuenProTest y se pretende que
+contenga todas las pruebas unitarias CachedCryRcuenProTest.
+</summary>
+</member><member name="P:TestProject1.CachedCryReciboTest.TestContext">
+	<summary>
+Obtiene o establece el contexto de la prueba que proporciona
+la información y funcionalidad para la ejecución de pruebas actual.
+</summary>
+</member><member name="M:TestProject1.CachedCryReciboTest.ShareDBLogonInfoTest">
+	<summary>
+Una prueba de ShareDBLogonInfo
+</summary>
+</member><member name="M:TestProject1.CachedCryReciboTest.IsCacheableTest">
+	<summary>
+Una prueba de IsCacheable
+</summary>
+</member><member name="M:TestProject1.CachedCryReciboTest.CacheTimeOutTest">
+	<summary>
+Una prueba de CacheTimeOut
+</summary>
+</member><member name="M:TestProject1.CachedCryReciboTest.GetCustomizedCacheKeyTest">
+	<summary>
+Una prueba de GetCustomizedCacheKey
+</summary>
+</member><member name="M:TestProject1.CachedCryReciboTest.CreateReportTest">
+	<summary>
+Una prueba de CreateReport
+</summary>
+</member><member name="M:TestProject1.CachedCryReciboTest.CachedCryReciboConstructorTest">
+	<summary>
+Una prueba de Constructor CachedCryRecibo
+</summary>
+</member><member name="T:TestProject1.CachedCryReciboTest">
+	<summary>
+Se trata de una clase de prueba para CachedCryReciboTest y se pretende que
+contenga todas las pruebas unitarias CachedCryReciboTest.
+</summary>
+</member><member name="P:TestProject1.CachedCryDetVenTest.TestContext">
+	<summary>
+Obtiene o establece el contexto de la prueba que proporciona
+la información y funcionalidad para la ejecución de pruebas actual.
+</summary>
+</member><member name="M:TestProject1.CachedCryDetVenTest.ShareDBLogonInfoTest">
+	<summary>
+Una prueba de ShareDBLogonInfo
+</summary>
+</member><member name="M:TestProject1.CachedCryDetVenTest.IsCacheableTest">
+	<summary>
+Una prueba de IsCacheable
+</summary>
+</member><member name="M:TestProject1.CachedCryDetVenTest.CacheTimeOutTest">
+	<summary>
+Una prueba de CacheTimeOut
+</summary>
+</member><member name="M:TestProject1.CachedCryDetVenTest.GetCustomizedCacheKeyTest">
+	<summary>
+Una prueba de GetCustomizedCacheKey
+</summary>
+</member><member name="M:TestProject1.CachedCryDetVenTest.CreateReportTest">
+	<summary>
+Una prueba de CreateReport
+</summary>
+</member><member name="M:TestProject1.CachedCryDetVenTest.CachedCryDetVenConstructorTest">
+	<summary>
+Una prueba de Constructor CachedCryDetVen
+</summary>
+</member><member name="T:TestProject1.CachedCryDetVenTest">
+	<summary>
+Se trata de una clase de prueba para CachedCryDetVenTest y se pretende que
+contenga todas las pruebas unitarias CachedCryDetVenTest.
+</summary>
+</member><member name="P:TestProject1.CachedCryIvaVentasTest.TestContext">
+	<summary>
+Obtiene o establece el contexto de la prueba que proporciona
+la información y funcionalidad para la ejecución de pruebas actual.
+</summary>
+</member><member name="M:TestProject1.CachedCryIvaVentasTest.ShareDBLogonInfoTest">
+	<summary>
+Una prueba de ShareDBLogonInfo
+</summary>
+</member><member name="M:TestProject1.CachedCryIvaVentasTest.IsCacheableTest">
+	<summary>
+Una prueba de IsCacheable
+</summary>
+</member><member name="M:TestProject1.CachedCryIvaVentasTest.CacheTimeOutTest">
+	<summary>
+Una prueba de CacheTimeOut
+</summary>
+</member><member name="M:TestProject1.CachedCryIvaVentasTest.GetCustomizedCacheKeyTest">
+	<summary>
+Una prueba de GetCustomizedCacheKey
+</summary>
+</member><member name="M:TestProject1.CachedCryIvaVentasTest.CreateReportTest">
+	<summary>
+Una prueba de CreateReport
+</summary>
+</member><member name="M:TestProject1.CachedCryIvaVentasTest.CachedCryIvaVentasConstructorTest">
+	<summary>
+Una prueba de Constructor CachedCryIvaVentas
+</summary>
+</member><member name="T:TestProject1.CachedCryIvaVentasTest">
+	<summary>
+Se trata de una clase de prueba para CachedCryIvaVentasTest y se pretende que
+contenga todas las pruebas unitarias CachedCryIvaVentasTest.
+</summary>
+</member><member name="P:TestProject1.CachedCrySaldosTest.TestContext">
+	<summary>
+Obtiene o establece el contexto de la prueba que proporciona
+la información y funcionalidad para la ejecución de pruebas actual.
+</summary>
+</member><member name="M:TestProject1.CachedCrySaldosTest.ShareDBLogonInfoTest">
+	<summary>
+Una prueba de ShareDBLogonInfo
+</summary>
+</member><member name="M:TestProject1.CachedCrySaldosTest.IsCacheableTest">
+	<summary>
+Una prueba de IsCacheable
+</summary>
+</member><member name="M:TestProject1.CachedCrySaldosTest.CacheTimeOutTest">
+	<summary>
+Una prueba de CacheTimeOut
+</summary>
+</member><member name="M:TestProject1.CachedCrySaldosTest.GetCustomizedCacheKeyTest">
+	<summary>
+Una prueba de GetCustomizedCacheKey
+</summary>
+</member><member name="M:TestProject1.CachedCrySaldosTest.CreateReportTest">
+	<summary>
+Una prueba de CreateReport
+</summary>
+</member><member name="M:TestProject1.CachedCrySaldosTest.CachedCrySaldosConstructorTest">
+	<summary>
+Una prueba de Constructor CachedCrySaldos
+</summary>
+</member><member name="T:TestProject1.CachedCrySaldosTest">
+	<summary>
+Se trata de una clase de prueba para CachedCrySaldosTest y se pretende que
+contenga todas las pruebas unitarias CachedCrySaldosTest.
+</summary>
+</member>
+</members>
+</doc>

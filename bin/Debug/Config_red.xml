@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+    <G>  
+        'numero de la pc
+        <Imagen Id='0'>
+           <subnodo1>2</subnodo1>
+            <subnodo2>data Source=DESKTOP-QD8VJRC\SQL;Initial Catalog=Truchet;User ID=ivan;Password=ivan</subnodo2>
+            <subnodo3>Truchet</subnodo3>
+       </Imagen>
+   </G>
+
+      
+ 
